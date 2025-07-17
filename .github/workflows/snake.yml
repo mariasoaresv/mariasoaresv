@@ -21,8 +21,8 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ mariasoaresv }}
-          outputs: dist/snake.svg?palette=github-defalt
+          github_user_name: mariasoaresv
+          outputs: dist/snake.svg?palette=github-default
 
 
       - name: push snake.svg to the output branch
