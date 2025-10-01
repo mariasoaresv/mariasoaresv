@@ -1,3 +1,5 @@
+<img width="2000" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/6c12459d-6733-4758-a0d2-87332047e510" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=5000&color=EEEEEE&center=true&width=435&lines=Hello+World!)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=5000&color=EEEEEE&width=435&lines=Sobre+mim%3A)](https://git.io/typing-svg)
@@ -23,7 +25,16 @@ Atualmente estou:
 
 <div align="center"><br>
   <a href = "mailto:mariafernandasoaressilv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maria-fernanda-soares-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/maria-fernanda-soares-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://behance.net/mariasoaresv"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" target="_blank"></a>
+</div>
+
+##
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10000&color=EEEEEE&width=435&lines=Github+Stats%3A)](https://git.io/typing-svg)
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mariasoaresv&theme=dark&hide_border=false" />
 </div>
 
 ##
