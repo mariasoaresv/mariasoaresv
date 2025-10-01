@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=A826AE&width=435&lines=Hello+World!;Me+chamo+Maria+Fernanda!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=B12BC8&center=true&width=435&lines=Hello+World!;Me+chamo+Maria+Fernanda!)](https://git.io/typing-svg)
 
-## ╰➤  Sobre mim
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=5000&color=B12BC8&width=435&lines=%E2%95%B0%E2%9E%A4+Sobre+mim%3A)](https://git.io/typing-svg)
+
 Sou estudante de análise e desenvolvimento de sistemas, apaixonada por aprender coisas novas. Gosto de explorar áreas como Java, Frontend (UI/UX) e inteligência artificial, e estou sempre em busca de projetos que me desafiem e me façam crescer.
 
 Atualmente estou:
@@ -10,9 +11,8 @@ Atualmente estou:
 
 ##
 
-## 💻 Conhecimentos:
-
-<div align="center"><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=5000&color=B12BC8&width=435&lines=%F0%9F%92%BB+Conhecimentos%3A)](https://git.io/typing-svg)
+<div align="center">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
