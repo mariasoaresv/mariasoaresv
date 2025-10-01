@@ -1,4 +1,5 @@
-### Olá! Me chamo Maria Fernanda
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=817ACF&width=435&lines=Hello+World!;Me+chamo+Maria+Fernanda!)](https://git.io/typing-svg)
+
 Sou estudante de análise e desenvolvimento de sistemas, apaixonada por aprender coisas novas. Gosto de explorar áreas como Java, Frontend (UI/UX) e inteligência artificial, e estou sempre em busca de projetos que me desafiem e me façam crescer.
 
 Atualmente estou:
@@ -24,9 +25,5 @@ Atualmente estou:
 
 <div align="center"> 
   <a href = "mailto:mariafernandasoaressilv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maria-fernanda-soares-silva-93861b289/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/maria-fernanda-soares-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-##
-
-<img src="https://raw.githubusercontent.com/mariasoaresv/mariasoaresv/output/snake.svg" alt="Snake animation"/>
