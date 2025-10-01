@@ -1,4 +1,6 @@
-<img width="2000" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/6c12459d-6733-4758-a0d2-87332047e510" />
+<div align="center">
+  <img align="center" width="2000" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/6c12459d-6733-4758-a0d2-87332047e510" />
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=5000&color=EEEEEE&center=true&width=435&lines=Hello+World!)](https://git.io/typing-svg)
 
