@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=817ACF&width=435&lines=Hello+World!;Me+chamo+Maria+Fernanda!)](https://git.io/typing-svg)
+![github-user-contribution](https://github.com/user-attachments/assets/87079a72-7c8b-48fe-861a-314eb853f365)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=817ACF&width=435&lines=Hello+World!;Me+chamo+Maria+Fernanda!)](https://git.io/typing-svg)
 
 Sou estudante de análise e desenvolvimento de sistemas, apaixonada por aprender coisas novas. Gosto de explorar áreas como Java, Frontend (UI/UX) e inteligência artificial, e estou sempre em busca de projetos que me desafiem e me façam crescer.
 
@@ -7,12 +7,9 @@ Atualmente estou:
 - 🔍 Explorando Frontend
 - 🗒️ Buscando um estágio para que eu possa aprimorar meus conhecimentos de forma prática
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariasoaresv&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariasoaresv&layout=compact&langs_count=7&theme=transparent"/>
-</div>
-
 ##
+
+##💻 Conhecimentos:
 
 <div align="center"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
