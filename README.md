@@ -1,12 +1,8 @@
-<div align="center">
-  <img align="center" width="2000" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/6c12459d-6733-4758-a0d2-87332047e510" />
-</div>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=5000&color=EEEEEE&center=true&width=435&lines=Hello+World!)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=5000&color=EEEEEE&width=435&lines=Sobre+mim%3A)](https://git.io/typing-svg)
 
-Sou estudante de análise e desenvolvimento de sistemas, apaixonada por aprender coisas novas. Gosto de explorar áreas como Java, Frontend (UI/UX) e inteligência artificial, e estou sempre em busca de projetos que me desafiem e me façam crescer.
+Me chamo Maria Fernanda, sou estudante de análise e desenvolvimento de sistemas, apaixonada por aprender coisas novas. Gosto de explorar áreas como Java, Frontend (UI/UX) e inteligência artificial, e estou sempre em busca de projetos que me desafiem e me façam crescer.
 
 Atualmente estou:
 - 💻 Aprendendo Java
