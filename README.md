@@ -29,12 +29,4 @@ Atualmente estou:
 
 ##
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=10000&color=EEEEEE&width=435&lines=Github+Stats%3A)](https://git.io/typing-svg)
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mariasoaresv&theme=dark&hide_border=false" />
-</div>
-
-##
-
 ![github-user-contribution](https://github.com/user-attachments/assets/87079a72-7c8b-48fe-861a-314eb853f365)
