@@ -1,26 +1,29 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=5000&color=EEEEEE&center=true&width=435&lines=Hello+World!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=4000&pause=10000&color=5852E6&width=435&lines=Hello+World!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=5000&color=EEEEEE&width=435&lines=Sobre+mim%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=5852E6&width=435&lines=Sobre+mim%3A)](https://git.io/typing-svg)
 
-Me chamo Maria Fernanda, sou estudante de análise e desenvolvimento de sistemas, apaixonada por aprender coisas novas. Gosto de explorar áreas como Java, Frontend (UI/UX) e inteligência artificial, e estou sempre em busca de projetos que me desafiem e me façam crescer.
+Me chamo Maria Fernanda, sou graduada em **Análise e Desenvolvimento de Sistemas** e estou me especializando como **Desenvolvedora Full Stack**. Busco oportunidades para aplicar e adquirir conhecimentos técnicos e contribuir com soluções eficientes e de alto impacto.
 
-Atualmente estou:
-- 💻 Aprimorando minhas habilidades em Java
-- 🔍 Estudando frontend
-- 🎨 Explorando design gráfico
-
-##
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=5000&color=EEEEEE&width=435&lines=Conhecimentos%3A)](https://git.io/typing-svg)
-<div align="center">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />    
-</div>
+- 🎓 **Formação:** Tecnóloga em Análise e Desenvolvimento de Sistemas (Facens)
+- 🎯 **Objetivo:** Desenvolvimento Full Stack
+- 🗣️ **Idiomas:** Inglês (Avançado) | Espanhol (Intermediário)
 
 ##
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3900&pause=10000&color=5852E6&width=435&lines=Tecnologias+e+Stack%3A)](https://git.io/typing-svg)
+
+### 💻 Front-End & Design
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma)](https://skillicons.dev)
+
+### ⚙️ Back-End & Banco de Dados
+[![My Skills](https://skillicons.dev/icons?i=java,py,mysql,sql)](https://skillicons.dev)
+
+### 🔧 Ferramentas de Desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea)](https://skillicons.dev)
+
+##
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=5852E6&width=435&lines=Minhas+Redes%3A)](https://git.io/typing-svg)
 <div align="center"><br>
   <a href = "mailto:mariafernandasoaressilv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-fernanda-soares-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
