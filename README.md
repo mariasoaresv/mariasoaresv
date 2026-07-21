@@ -25,9 +25,7 @@ Me chamo Maria Fernanda, sou graduada em **Análise e Desenvolvimento de Sistema
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=5852E6&width=435&lines=Minhas+Redes%3A)](https://git.io/typing-svg)
 <div align="center"><br>
-  <a href = "mailto:mariafernandasoaressilv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-fernanda-soares-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://behance.net/mariasoaresv"><img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" target="_blank"></a>
 </div>
 
 ##
