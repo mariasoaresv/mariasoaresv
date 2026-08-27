@@ -71,7 +71,7 @@ Me chamo Maria Fernanda, sou graduada em **Análise e Desenvolvimento de Sistema
 
 <div align="center"><br>
   
-![github-user-contribution](https://github.com/user-attachments/assets/87079a72-7c8b-48fe-861a-314eb853f365)
+![snake animation](https://github.com/<mariasoaresv>/<mariasoaresv>/blob/output/github-contribution-grid-snake2.svg)
 
 </div>
 
