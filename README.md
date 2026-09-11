@@ -6,10 +6,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=10000&color=FF49DB&width=435&lines=Sobre+mim%3A)](https://git.io/typing-svg)
 
-Me chamo Maria Fernanda, sou graduada em **Análise e Desenvolvimento de Sistemas** e estou me especializando como **Desenvolvedora Full Stack**. Busco oportunidades para aplicar e adquirir conhecimentos técnicos e contribuir com soluções eficientes e de alto impacto.
+Me chamo Maria Fernanda, sou estudante de Ciencia da Computação e tecnologa em **Análise e Desenvolvimento de Sistemas** e estou me especializando como **Desenvolvedora Full Stack**. Busco oportunidades para aplicar e adquirir conhecimentos técnicos e contribuir com soluções eficientes e de alto impacto.
 
-- 🎓 **Formação:** Tecnóloga em Análise e Desenvolvimento de Sistemas (Facens)
-- 🎯 **Objetivo:** Desenvolvimento Full Stack
+- 🎓 **Formação:** Cursando Ciencia da Computação e formada em Análise e Desenvolvimento de Sistemas
+- 🎯 **Objetivo:** Desenvolvimento Full Stack | Games
 - 🗣️ **Idiomas:** Inglês (Avançado) | Espanhol (Intermediário)
 
 ##
